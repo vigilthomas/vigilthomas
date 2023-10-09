@@ -2,9 +2,21 @@
         scroll-behavior: smooth;
         overflow-x: hidden;
     }
-
+@media (max-width:767px) {
+    .me-img{
+        display: none;
+    }
+    
+}
+@media (min-width:770px) and (max-width:1100px) {
+    .me-img{
+        display: inline-flex;
+        object-fit: contain;
+    }
+    
+}
     .me-img {
-        width: 100%;
+        width: 65%;
         height: 670px;
         object-fit: cover;
         /* border-radius: 34% 54% 47% 53% / 69% 31% 69% 31%  ; */
