@@ -8,13 +8,6 @@
     }
     
 }
-@media (min-width:770px) and (max-width:1100px) {
-    .me-img{
-        display: inline-flex;
-        object-fit: contain;
-    }
-    
-}
     .me-img {
         width: 65%;
         height: 670px;
