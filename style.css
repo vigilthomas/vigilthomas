@@ -3,16 +3,20 @@
         overflow-x: hidden;
     }
 @media (max-width:767px) {
-    .me-img{
+    .me-img2{
         display: none;
+    }
+    .me-img {
+        width: fit-content;
+        max-height: 350px;
+        object-fit: cover;
     }
     
 }
     .me-img {
         width: 65%;
-        height: 670px;
+        height: 650px;
         object-fit: cover;
-        /* border-radius: 34% 54% 47% 53% / 69% 31% 69% 31%  ; */
     }
 
     .me-img2 {
