@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vigilthomas
 - 👀 I’m interested in something
 - 🌱 I’m currently learning something
-- ⚡ Fun fact: something is also something
+- ⚡ Fun fact: something is better than nothing
