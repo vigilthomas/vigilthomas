@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vigil Thomas
 
-🚀 **Developer Team Lead & Software Developer** from Kerala, India  
+🚀 **Development Team Lead & Software Developer** from Kerala, India  
 🎓 BCA Graduate | 💻 Passionate about Full Stack Development
 
 ---
