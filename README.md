@@ -20,9 +20,9 @@ I specialize in **Angular frontend development** and **Python-based backend syst
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, JavaScript, HTML, CSS, SQL  
-- **Frameworks & Tools:** Angular, Node.js, Express, Bootstrap, Tailwind  
+- **Frameworks & Tools:** Angular, Express, Bootstrap, Tailwind  
 - **Version Control:** Git, GitHub, GitLab  
-- **Database:** MongoDB, MySQL  
+- **Database:** MySQL  
 - **Other:** REST APIs, Firebase (basic), VS Code, Postman
 
 ---
