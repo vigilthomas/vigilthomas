@@ -12,7 +12,6 @@ With hands-on experience leading cross-functional teams and building scalable we
 I specialize in **Angular frontend development** and **Python-based backend systems**.
 
 - 🔭 Currently working at **Travidux Technologies Pvt. Ltd.** as a Project Team Lead
-- 🌱 Learning **DevOps**, **TypeScript**, and **Next.js**
 - 🧠 Believer in **continuous learning**, **clean code**, and **creative collaboration**
 
 ---
